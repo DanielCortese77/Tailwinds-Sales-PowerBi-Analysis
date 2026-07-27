@@ -176,24 +176,6 @@ The completed dashboard enables decision-makers to:
 - Compare regional performance
 - Support strategic business decisions through interactive reporting
 
----
-
-# Repository Contents
-
-```
-📁 Tailwind-Traders-PowerBI-Analysis
-│
-├── Tailwind Traders Dashboard.pbix
-├── Sales.xlsx
-├── Purchases.xlsx
-├── Countries.xlsx
-├── README.md
-└── images
-    ├── sales-overview.png
-    ├── profit-overview.png
-    ├── data-model.png
-    └── performance-analyzer.png
-```
 
 ---
 
@@ -224,4 +206,4 @@ The completed dashboard enables decision-makers to:
 
 **Daniel Cortese**
 
-Aspiring Business Analyst | SQL | Power BI | Excel | Python | Data Analytics
+Aspiring Business Analyst | Customer Success | Relationship Management & Strategy | SQL | Power BI | Excel | Data Analytics
