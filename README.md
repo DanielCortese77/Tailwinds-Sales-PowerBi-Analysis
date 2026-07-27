@@ -152,7 +152,6 @@ Power BI Performance Analyzer was used to evaluate report efficiency and optimiz
 - ETL
 - Power Query
 - Excel
-- Python (Pandas)
 - Data Modeling
 - Relationship Management
 - Star Schema Design
