@@ -1,7 +1,7 @@
 # Tailwinds-Sales-PowerBi-Analysis
 
 
-# 📊 Tailwind Traders Business Intelligence Dashboard | Power BI, Excel, DAX & Python
+# 📊 Tailwind Traders Business Intelligence Dashboard | Power BI, Excel & DAX
 
 ## Project Overview
 
