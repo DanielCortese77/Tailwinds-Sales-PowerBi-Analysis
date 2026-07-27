@@ -203,23 +203,20 @@ The completed dashboard enables decision-makers to:
 
 *<img width="1296" height="727" alt="Tailwinds Traders 1 Sales" src="https://github.com/user-attachments/assets/c3bb9beb-72a5-48f2-a6ca-00679a7d0669" />*
 
-![Sales Overview](images/sales-overview.png)
 
 ---
 
 ## Profit Overview
 
-*(Insert screenshot here)*
+*<img width="1286" height="722" alt="Tailwinds Traders 2  Profit" src="https://github.com/user-attachments/assets/f250e654-879f-428d-95d1-d81fc0e74b1d" />*
 
-![Profit Overview](images/profit-overview.png)
 
 ---
 
 ## Data Model
 
-*<img width="1286" height="722" alt="Tailwinds Traders 2  Profit" src="https://github.com/user-attachments/assets/f250e654-879f-428d-95d1-d81fc0e74b1d" />*
+<img width="1355" height="661" alt="Tailwind- Model View" src="https://github.com/user-attachments/assets/529dc5be-77dc-4d44-8f0d-7be07fc76d7a" />
 
-![Data Model](images/data-model.png)
 
 ---
 
