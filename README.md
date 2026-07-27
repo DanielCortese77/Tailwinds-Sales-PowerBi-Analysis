@@ -201,7 +201,7 @@ The completed dashboard enables decision-makers to:
 
 ## Sales Overview
 
-*(Insert screenshot here)*
+*<img width="1296" height="727" alt="Tailwinds Traders 1 Sales" src="https://github.com/user-attachments/assets/c3bb9beb-72a5-48f2-a6ca-00679a7d0669" />*
 
 ![Sales Overview](images/sales-overview.png)
 
@@ -217,7 +217,7 @@ The completed dashboard enables decision-makers to:
 
 ## Data Model
 
-*(Insert screenshot here)*
+*<img width="1286" height="722" alt="Tailwinds Traders 2  Profit" src="https://github.com/user-attachments/assets/f250e654-879f-428d-95d1-d81fc0e74b1d" />*
 
 ![Data Model](images/data-model.png)
 
