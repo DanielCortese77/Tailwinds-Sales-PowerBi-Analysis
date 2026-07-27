@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project demonstrates the end-to-end development of an interactive Business Intelligence dashboard for **Tailwind Traders** using **Power BI, Microsoft Excel, Power Query, DAX, and Python**.
+This project demonstrates the end-to-end development of an interactive Business Intelligence dashboard for **Tailwind Traders** using **Power BI, Microsoft Excel, Power Query and DAX**.
 
 The objective was to transform raw sales, purchasing, and country data into a centralized reporting solution that enables stakeholders to monitor sales performance, profitability, customer activity, and operational trends through interactive visualizations.
 
@@ -31,7 +31,7 @@ Tailwind Traders required a reporting solution capable of:
 - Microsoft Excel
 - Power Query
 - DAX (Data Analysis Expressions)
-- Python (Pandas)
+- Python (limited use of Pandas)
 - Data Modeling
 - Star Schema Design
 
@@ -68,14 +68,6 @@ The datasets were then imported into Power BI where Power Query was used to:
 - Remove unnecessary records
 - Filter returned purchases
 - Prepare the data for modeling
-
----
-
-# Python Integration
-
-Historical currency exchange rates were imported using a Python script with the Pandas library.
-
-This created an additional Exchange Data table used to convert financial metrics into a common reporting currency.
 
 ---
 
